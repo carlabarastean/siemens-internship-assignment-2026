@@ -1,0 +1,14 @@
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.AssemblyInfoInputs.cache
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.AssemblyInfo.cs
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.csproj.CoreCompileInputs.cache
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/bin/Debug/net8.0/SieMarket.Domain.deps.json
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/bin/Debug/net8.0/SieMarket.Domain.dll
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/bin/Debug/net8.0/SieMarket.Domain.pdb
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.dll
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/refint/SieMarket.Domain.dll
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.pdb
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/ref/SieMarket.Domain.dll
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/bin/Debug/net8.0/SieMarket.Domain
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/bin/Debug/net8.0/SieMarket.Domain.runtimeconfig.json
+/Users/carlabarastean/RiderProjects/SieMarket/SieMarket.Domain/obj/Debug/net8.0/SieMarket.Domain.genruntimeconfig.cache
